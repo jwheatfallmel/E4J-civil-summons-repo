@@ -1,6 +1,6 @@
 # Civil Summons Enforcement Project - The Evidence for Justice Lab
 
-This repository contains working code and data for the Evidence for Justice Lab's Civil Summons Enforcement Project. The project is currently under development and seeks to understand the nature, prevalence and patterns of civil summons in New York City.
+This repository contains working code and data for the Civil Summons Enforcement Project by The Evidence for Justice Lab at Georgetown University McCourt School of Public Policy. The project is currently under development and seeks to understand the nature, prevalence and patterns of civil summons in New York City.
 
 ## Project Structure
 
